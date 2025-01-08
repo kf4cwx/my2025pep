@@ -5,11 +5,11 @@ This is my test repo
 
 It's in markdown so I can make it nice?
 
-## Second Heading ##
+## Second Heading
 
 Lots of material here
 
-### Third Heading ###
+### Third Heading
 
 **bold works**
 
