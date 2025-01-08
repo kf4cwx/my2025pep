@@ -11,8 +11,8 @@ Lots of material here
 
 ### Third Heading ###
 
-** bold works **
+**bold works**
 
-_underline_ alos
+_italics_ also
 
 check <https://g4m.code4math.org>
