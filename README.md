@@ -1,4 +1,5 @@
 # my2025pep
+
 first sample repo for PEP @ JMM2025
 
 This is my test repo
@@ -11,7 +12,7 @@ Lots of material here
 
 ### Third Heading
 
-**bold works**
+**bold works** on inline text
 
 _italics_ also
 
